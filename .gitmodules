@@ -4,3 +4,6 @@
 [submodule "InfiniTensor"]
 	path = InfiniTensor
 	url = https://github.com/eclouder/InfiniTensor
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = https://github.com/eclouder/TinyInfiniTensor
