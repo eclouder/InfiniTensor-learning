@@ -1,3 +1,6 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = https://github.com/eclouder/learning-cxx.git
+[submodule "InfiniTensor"]
+	path = InfiniTensor
+	url = https://github.com/eclouder/InfiniTensor
